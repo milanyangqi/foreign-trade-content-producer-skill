@@ -9,6 +9,7 @@ Use the project-level `content_style_guide.md` as the source of truth when avail
 - Use large Chinese headlines, short body copy, numbered cards, checklist rows, workflow arrows, or comparison panels.
 - Include trade-relevant visual elements such as laptops, world maps, trade routes, containers, ports, RFQ emails, search boxes, certificates, and quotation sheets.
 - Avoid dense paragraphs, fake logos, watermarks, unreadable small text, and overdone cyberpunk visuals.
+- Keep every image in one post visually unified: same primary palette, typography feel, card style, icon style, and layout density. Vary composition, but do not mix realistic, comic, cyberpunk, and minimalist styles in one post.
 
 ## Default Style B: Realistic Office Cover
 
@@ -21,3 +22,4 @@ Use the project-level `content_style_guide.md` as the source of truth when avail
 - Use for SOPs, save-worthy tips, and teachable frameworks.
 - Each image should explain one idea clearly.
 - Keep the sequence visually consistent so it can become a Douyin carousel video.
+- Keep the final carousel video under 15 seconds.
