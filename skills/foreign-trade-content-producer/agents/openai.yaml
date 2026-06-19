@@ -1,0 +1,7 @@
+interface:
+  display_name: "Foreign Trade Content Producer"
+  short_description: "Generate complete Xiaohongshu and Douyin content packages for foreign-trade creators."
+  default_prompt: "Use $foreign-trade-content-producer to create one reviewed foreign-trade Xiaohongshu/Douyin content package."
+
+policy:
+  allow_implicit_invocation: true
